@@ -20,6 +20,12 @@ Here are some ideas to get you started:
 <!-- 깃허브 주석
 - git init
 - git add
-
+- git commit -m " "
+- git config --global user.name []
+- git config --global user.email []
+- git status
+- git push origin master
+- git pull
+- git reset []
 
 -->
