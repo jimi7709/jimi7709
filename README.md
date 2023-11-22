@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- 깃허브 주석
+- git show-ref (로컬 저장소 브랜치 명 확인)
 - git init
 - git add
 - git commit -m " "
