@@ -1,6 +1,9 @@
-<!--### Hi there 👋 https://solved.ac/profile/qkrwoals8697
+<!--
+### Hi there 👋 https://solved.ac/profile/qkrwoals8697
 -->
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwoals8697)](https://solved.ac/qkrwoals8697/)
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwoals8697)](https://solved.ac/qkrwoals8697/)
+
+-->
 <!--## Blog: https://jimi7709.github.io/
 -->
 <!--
