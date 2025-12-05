@@ -1,5 +1,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=qkrwoals8697)](https://solved.ac/qkrwoals8697)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=qkrwoals8697&theme=warm)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=qkrwoals8697&theme=cold)
 
 
 <!--
